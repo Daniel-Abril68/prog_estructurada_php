@@ -1,3 +1,7 @@
 <?php
-    //Este es un comenratio de una oa linea o renglon
-    /*este es un comentarrio 
+    // Este es un comentario de una sola linea o renglón
+    
+    /*Este es un comentario 
+    de varias lineas o renglones.
+    Sistemas Guanenta*/
+?>
