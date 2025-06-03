@@ -22,7 +22,7 @@
     ?>
 
     <h2>De comparacion</h2>
-<?php
+    <?php
         $x = 9;
         $y = 3;
 
@@ -31,7 +31,7 @@
 
 <h2>Logicos</h2>
 
-<?php
+    <?php
         $x = 9;
         $y = 3;
 
